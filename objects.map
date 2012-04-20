@@ -1,0 +1,71 @@
+:0_bunny_ListViewItem	{container=':Select files to import_ListView' occurrence='3' text='0_bunny' type='ListViewItem'}
+:108596791_Edit	{container=':108596791_Window' type='Edit'}
+:108596791_Window	{id='108596791' type='Window'}
+:10877_ToolbarItem	{container=':Artec Studio_Toolbar' id='10877' type='ToolbarItem'}
+:10878_ToolbarItem	{container=':Artec Studio_Toolbar' id='10878' type='ToolbarItem'}
+:10879_ToolbarItem	{container=':Artec Studio_Toolbar' id='10879' type='ToolbarItem'}
+:10880_ToolbarItem	{container=':Artec Studio_Toolbar' id='10880' type='ToolbarItem'}
+:10882_ToolbarItem	{container=':Artec Studio_Toolbar' id='10882' type='ToolbarItem'}
+:10883_ToolbarItem	{container=':Artec Studio_Toolbar' id='10883' type='ToolbarItem'}
+:10884_ToolbarItem	{container=':Artec Studio_Toolbar' id='10884' type='ToolbarItem'}
+:10885_ToolbarItem	{container=':Artec Studio_Toolbar' id='10885' type='ToolbarItem'}
+:11623_Button	{container=':_Dialog' id='11623' type='Button'}
+:118886383_MenuBar	{container=':118886383_Window' type='MenuBar'}
+:118886383_Window	{id='118886383' type='Window'}
+:149753513_MenuBar	{container=':149753513_Window' type='MenuBar'}
+:149753513_Window	{id='149753513' type='Window'}
+:26612227_Window	{id='26612227' type='Window'}
+:2821157_MenuBar	{container=':2821157_Window' type='MenuBar'}
+:2821157_Window	{id='2821157' type='Window'}
+:2_Button	{container=':_Dialog' id='2' type='Button'}
+:96801157_MenuBar	{container=':96801157_Window' type='MenuBar'}
+:96801157_Window	{id='96801157' type='Window'}
+:Artec Studio.Refresh_Button	{container=':Artec Studio_Window' text='Refresh' type='Button'}
+:Artec Studio_Edit	{container=':Artec Studio_Window' type='Edit'}
+:Artec Studio_Header	{container=':Artec Studio_Window' type='Header'}
+:Artec Studio_ListView	{container=':Artec Studio_Window' type='ListView'}
+:Artec Studio_MenuBar	{container=':Artec Studio_Window' type='MenuBar'}
+:Artec Studio_Toolbar	{container=':Artec Studio_Window' type='Toolbar'}
+:Artec Studio_Window	{text='Artec Studio' type='Window'}
+:Artec Studio_WindowsControl	{class='wxGLCanvasClass' container=':Artec Studio_Window' type='WindowsControl'}
+:Artec Studio_WindowsControl_2	{class='wxWindowClassNR' container=':Artec Studio_Window' occurrence='4' type='WindowsControl'}
+:C:\\Users\\i.getsman\\Documents\\Artec Studio Projects\\444444\\444444.sproj - Artec Studio_Window	{text='C:\\\\Users\\\\i.getsman\\\\Documents\\\\Artec Studio Projects\\\\444444\\\\444444.sproj - Artec Studio' type='Window'}
+:C:\\Users\\i.getsman\\Documents\\Artec Studio Projects\\444444\\444444.sproj - Artec Studio_WindowsControl	{class='wxWindowClassNR' container=':C:\\\\Users\\\\i.getsman\\\\Documents\\\\Artec Studio Projects\\\\444444\\\\444444.sproj - Artec Studio_Window' occurrence='4' type='WindowsControl'}
+:Edit_MenuItem	{container=':Artec Studio_MenuBar' text='Edit' type='MenuItem'}
+:Export scans.OK_Button	{container=':Export scans_Dialog' text='OK' type='Button'}
+:Export scans_ComboBox	{container=':Export scans_Dialog' type='ComboBox'}
+:Export scans_Dialog	{text='Export scans' type='Dialog'}
+:Export scans_Edit	{container=':Export scans_Dialog' type='Edit'}
+:File.Exit_MenuItem	{container=':File_MenuItem_3' text='Exit' type='MenuItem'}
+:File_MenuItem	{container=':Artec Studio_MenuBar' text='File' type='MenuItem'}
+:File_MenuItem_2	{container=':149753513_MenuBar' text='File' type='MenuItem'}
+:File_MenuItem_3	{container=':2821157_MenuBar' text='File' type='MenuItem'}
+:ID_HeaderItem	{container=':Artec Studio_Header' text='ID' type='HeaderItem'}
+:Load scans_MenuItem	{container=':_ContextMenu' text='Load scans' type='MenuItem'}
+:Message.OK_Button	{container=':Message_Dialog' text='OK' type='Button'}
+:Message_Dialog	{text='Message' type='Dialog'}
+:Select files to import.Open_Button	{container=':Select files to import_Dialog' text='Open' type='Button'}
+:Select files to import_ComboBox	{container=':Select files to import_Dialog' type='ComboBox'}
+:Select files to import_Dialog	{text='Select files to import' type='Dialog'}
+:Select files to import_Edit	{container=':Select files to import_Dialog' type='Edit'}
+:Select files to import_ListView	{container=':Select files to import_Dialog' type='ListView'}
+:Select place where project will be saved.Location:_Edit	{container=':Select place where project will be saved_Dialog' leftObject={container={text='Select place where project will be saved' type='Dialog'} text='Location:' type='Label'} type='Edit'}
+:Select place where project will be saved.Location:_Label	{container=':Select place where project will be saved_Dialog' text='Location:' type='Label'}
+:Select place where project will be saved.Name:_Edit	{container=':Select place where project will be saved_Dialog' leftObject={container={text='Select place where project will be saved' type='Dialog'} text='Name:' type='Label'} type='Edit'}
+:Select place where project will be saved.Name:_Label	{container=':Select place where project will be saved_Dialog' text='Name:' type='Label'}
+:Select place where project will be saved.Save_Button	{container=':Select place where project will be saved_Dialog' text='Save' type='Button'}
+:Select place where project will be saved_Dialog	{text='Select place where project will be saved' type='Dialog'}
+:Title_HeaderItem	{container=':Artec Studio_Header' text='Title' type='HeaderItem'}
+:Unload scans_MenuItem	{container=':_ContextMenu' text='Unload scans' type='MenuItem'}
+:View_MenuItem	{container=':Artec Studio_MenuBar' text='View' type='MenuItem'}
+:Window.Workspace_MenuItem	{container=':Window_MenuItem_3' text='Workspace' type='MenuItem'}
+:Window_MenuItem	{container=':Artec Studio_MenuBar' text='Window' type='MenuItem'}
+:Window_MenuItem_2	{container=':149753513_MenuBar' text='Window' type='MenuItem'}
+:Window_MenuItem_3	{container=':118886383_MenuBar' text='Window' type='MenuItem'}
+:Window_MenuItem_4	{container=':96801157_MenuBar' text='Window' type='MenuItem'}
+:_ContextMenu	{type='ContextMenu'}
+:_Dialog	{id='' type='Dialog'}
+:_ListViewItem	{container=':Artec Studio_ListView' occurrence='3' text='' type='ListViewItem'}
+:_ScrollBar	{container=':Select files to import_ListView' occurrence='2' type='ScrollBar'}
+:scan_ComboBoxItem	{container=':Export scans_ComboBox' text='scan' type='ComboBoxItem'}
+:wrl_ComboBoxItem	{container=':Export scans_ComboBox' text='wrl' type='ComboBoxItem'}
